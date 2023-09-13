@@ -125,7 +125,7 @@ const Home = () => {
         </div>
       </section>
 
-      <section className="bg-black pb-[100px] pt-[100px]">
+      {/* <section className="bg-black pb-[100px] pt-[100px]">
         <div className="container mx-auto flex w-full flex-col  text-center text-white">
           <h1 className="pb-8 text-6xl">ROADMAP</h1>
           <div className="flex w-full flex-col md:flex-row">
@@ -235,7 +235,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
     </>
   );
 };
