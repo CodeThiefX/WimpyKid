@@ -27,9 +27,10 @@ const Home = () => {
             <b>$GREG</b>
           </h1>
           <p className="text-2xl">
-            "$GREG" is a unique crypto project inspired by the spirit of Greg
-            Heffley from "Diary of a Wimpy Kid." The project aims to motivate
-            buyers to hold their tokens while offering exciting NFT rewards.
+            $GREG is a meme community token that embarks on an exciting journey
+            filled with twists, turns and plenty of laughs. Keeping a Crypto
+            Diary filled with tips, hacks, and a few hilarious mishaps. $GREG Is
+            on a quest to conquer the crypto world, one Satoshi at a time.
           </p>
         </div>
         <div
@@ -78,8 +79,6 @@ const Home = () => {
               className="justify-center p-5 text-center text-2xl"
             >
               <TfiArrowCircleRight />
-              NFT Collection <br />
-              <TfiArrowCircleRight />
               Meme Contest <br />
               <TfiArrowCircleRight />
               Community <br />
@@ -100,11 +99,10 @@ const Home = () => {
           data-aos-delay="300"
           className="justify-center p-5 text-center text-2xl"
         >
-          $GREG will not only motivate buyers to HODL but also provide them with
-          a unique and entertaining NFT collection featuring Greg's crypto
-          adventures. This fusion of crypto and humor inspired by "Diary of a
-          Wimpy Kid" will set the project apart and create a dedicated community
-          of CryptoGreg enthusiasts.
+          $GREG will not only motivate buyers to HODL but also inject humor and
+          fun into $GREG communication and events, making it enjoyable for
+          HODLers. $GREG aim to create a crypto community where learning and
+          laughter go hand in hand.
         </p>
         <div className="container mx-auto flex justify-center gap-4">
           <Link
